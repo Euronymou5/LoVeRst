@@ -87,7 +87,7 @@ def tools():
       print(f'{Fore.GREEN}\n[!] Backdoor-APK already exists!')
       ans = input('\n[?] You want to run the tool [Y/n]: ')
       if ans == "y" or ans == "Y":
-        os.system("bash tools/backdoor-apk/backdoor-apk.sh")
+        os.system("bash tools/backdoor-apk/backdoor-apk/backdoor-apk.sh")
       elif ans == "n" or ans == "N":
          tools()
       else:
