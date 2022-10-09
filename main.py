@@ -37,6 +37,7 @@ def tools():
   if b == "1":
     if os.path.exists('tools/TheFatRat'):
       print(f'{Fore.GREEN}\n[!] TheFatRat already exists!')
+      ans = input('\n[?] You want to run the tool [Y/n]: ')
       if ans == "y" or ans == "Y":
         os.system("bash tools/TheFatRat/fatrat")
       elif ans == "n" or ans == "N":
