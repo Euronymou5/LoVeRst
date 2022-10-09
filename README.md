@@ -3,4 +3,4 @@
 
 ### Installation
 
-- Compatible in: ![Kali Linux](https://w7.pngwing.com/pngs/790/365/png-transparent-gray-dragon-kali-linux-backtrack-penetration-test-offensive-security-certified-professional-linux-branch-logo-monochrome.png)
+- Compatible in: **Kali Linux**![](https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png)
