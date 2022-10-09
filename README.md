@@ -6,8 +6,7 @@
 
 **Compatible In: **
 
-**[Kali Linux]: :fa-check:**
-[Kali Linux]: https://www.kali.org/
+**[Kali Linux]: https://www.kali.org/**
 
 **[Parrot OS]: :fa-check:**
 [Parrot OS]: https://www.parrotsec.org/  
