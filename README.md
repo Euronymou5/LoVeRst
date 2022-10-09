@@ -7,11 +7,11 @@
 
 **[Kali Linux](https://www.kali.org/)**: :heavy_check_mark:
 
-**[Parrot OS](https://www.parrotsec.org/)**: :tw-2705:
+**[Parrot OS](https://www.parrotsec.org/)**: :heavy_check_mark: 
 
-**[Android (Termux)](https://termux.com/)**: 
+**[Android (Termux)](https://termux.com/)**: :heavy_multiplication_x: 
 
-**[Black Arch Linux](https://blackarch.org/)**: 
+**[Black Arch Linux](https://blackarch.org/)**: :heavy_multiplication_x: 
 
 ---
 ## Installation
