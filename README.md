@@ -4,7 +4,7 @@
 
 ----
 
-**Compatible In: **
+**Compatible In:**
 
 **[Kali Linux]: :fa-check:**
 [Kali Linux]: https://www.kali.org/
