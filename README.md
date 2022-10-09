@@ -1,15 +1,15 @@
 # LoVeRst
 **¿What is LoVeRst?** *LoVerRst is a backdoor generator and backdoor generating tools.*
 
-<i class="fa-solid fa-check"></i>
+
 ----
 
-**Compatible In:**
+**Compatible In: **
 
-**[Kali Linux]:**
+**[Kali Linux]: :fa-check:**
 [Kali Linux]: https://www.kali.org/
 
-**[Parrot OS]:**
+**[Parrot OS]: :fa-check:**
 [Parrot OS]: https://www.parrotsec.org/  
 
 **[Android (Termux)][term]: :fa-times:**
