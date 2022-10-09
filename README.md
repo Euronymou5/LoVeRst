@@ -10,7 +10,7 @@
 
 **[Parrot OS](https://www.parrotsec.org/)**  
 
-**[Android (Termux)](https://termux.com/)
+**[Android (Termux)](https://termux.com/)**
 
 **[Black Arch Linux](https://blackarch.org/)**
 
