@@ -4,7 +4,7 @@
 
 ----
 
-**Compatible In: **
+**Compatible In:**
 
 **[Kali Linux](https://www.kali.org/)**
 
