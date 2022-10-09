@@ -34,7 +34,7 @@ sudo python3 main.py
 
 ## Images
 
-[![](https://media.discordapp.net/attachments/995599976463859713/1028492211966451752/unknown.png?width=429&height=308)]
+![](https://media.discordapp.net/attachments/995599976463859713/1028492211966451752/unknown.png?width=429&height=308)
 
 ---
 
