@@ -6,13 +6,13 @@
 
 **Compatible In:**
 
-**[Kali Linux](https://www.kali.org/)**
+**[Kali Linux](https://www.kali.org/)**: 
 
-**[Parrot OS](https://www.parrotsec.org/)**  
+**[Parrot OS](https://www.parrotsec.org/)**: 
 
-**[Android (Termux)](https://termux.com/)**
+**[Android (Termux)](https://termux.com/)**: 
 
-**[Black Arch Linux](https://blackarch.org/)**
+**[Black Arch Linux](https://blackarch.org/)**: 
 
 ---
 ## Installation
