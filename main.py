@@ -119,9 +119,7 @@ def gen():
    [3] Android backdoors
    
    [4] MAC OS backdoors
-   
-   [5] Linux backdoors
-   
+      
    [00] Back to main menu
    
    [99] Exit
