@@ -5,7 +5,7 @@
 
 **Compatible In:**
 
-**[Kali Linux](https://www.kali.org/)**: :tw-2705:
+**[Kali Linux](https://www.kali.org/)**: :heavy_check_mark:
 
 **[Parrot OS](https://www.parrotsec.org/)**: :tw-2705:
 
